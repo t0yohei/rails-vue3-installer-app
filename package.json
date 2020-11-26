@@ -5,7 +5,9 @@
     "@rails/actioncable": "^6.0.0",
     "@rails/activestorage": "^6.0.0",
     "@rails/ujs": "^6.0.0",
-    "@rails/webpacker": "4.3.0"
+    "@rails/webpacker": "https://github.com/t0yohei/webpacker.git#feature-add-vue3-install-task",
+    "core-js": "^3.8.0",
+    "regenerator-runtime": "^0.13.7"
   },
   "version": "0.1.0",
   "devDependencies": {
